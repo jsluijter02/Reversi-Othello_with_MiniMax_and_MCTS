@@ -1,0 +1,10 @@
+C:\Users\joche\source\repos\Revisey\Revisey\obj\Debug\Revisey.csproj.AssemblyReference.cache
+C:\Users\joche\source\repos\Revisey\Revisey\obj\Debug\Revisey.csproj.SuggestedBindingRedirects.cache
+C:\Users\joche\source\repos\Revisey\Revisey\obj\Debug\Revisey.Properties.Resources.resources
+C:\Users\joche\source\repos\Revisey\Revisey\obj\Debug\Revisey.csproj.GenerateResource.cache
+C:\Users\joche\source\repos\Revisey\Revisey\obj\Debug\Revisey.csproj.CoreCompileInputs.cache
+C:\Users\joche\source\repos\Revisey\Revisey\bin\Debug\Revisey.exe.config
+C:\Users\joche\source\repos\Revisey\Revisey\bin\Debug\Revisey.exe
+C:\Users\joche\source\repos\Revisey\Revisey\bin\Debug\Revisey.pdb
+C:\Users\joche\source\repos\Revisey\Revisey\obj\Debug\Revisey.exe
+C:\Users\joche\source\repos\Revisey\Revisey\obj\Debug\Revisey.pdb

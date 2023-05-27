@@ -1,0 +1,10 @@
+C:\Users\joche\source\repos\Revisey\Revisey\bin\Debug\OthelloReversi.exe.config
+C:\Users\joche\source\repos\Revisey\Revisey\bin\Debug\OthelloReversi.exe
+C:\Users\joche\source\repos\Revisey\Revisey\bin\Debug\OthelloReversi.pdb
+C:\Users\joche\source\repos\Revisey\Revisey\obj\Debug\OthelloReversi.csproj.AssemblyReference.cache
+C:\Users\joche\source\repos\Revisey\Revisey\obj\Debug\OthelloReversi.csproj.SuggestedBindingRedirects.cache
+C:\Users\joche\source\repos\Revisey\Revisey\obj\Debug\OthelloReversi.Properties.Resources.resources
+C:\Users\joche\source\repos\Revisey\Revisey\obj\Debug\OthelloReversi.csproj.GenerateResource.cache
+C:\Users\joche\source\repos\Revisey\Revisey\obj\Debug\OthelloReversi.csproj.CoreCompileInputs.cache
+C:\Users\joche\source\repos\Revisey\Revisey\obj\Debug\OthelloReversi.exe
+C:\Users\joche\source\repos\Revisey\Revisey\obj\Debug\OthelloReversi.pdb
